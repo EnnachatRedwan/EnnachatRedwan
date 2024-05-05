@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EnnachatRedwan
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Spring and Angular
 - 💞️ I’m looking to collaborate on software company
 - 📫 How to reach me: ennachat.redwan.pro@gmail.com
 
