@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnnachatRedwan
-- 👀 I’m interested in software engineering
+- 👀 Software Systems Engineer and Business Analyst
 - 📫 How to reach me: ennachat.redwan.pro@gmail.com
 
 <h1>you find all demos in the readme file of each repo</h1>
