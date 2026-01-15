@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @EnnachatRedwan
 - 👀 Software Engineer | DevOps | Business Analyst
-- 📫 How to reach me: ennachat.redwan.pro@gmail.com
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
